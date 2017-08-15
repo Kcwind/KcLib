@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\androidspace\KcLib\mylibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b57b5c028ad9020348e82ce3d98805a1238bc428">
+        <dex dex="E:\androidspace\KcLib\app\build\intermediates\pre-dexed\debug\classes_e3285db2ad3956d057ae0ab4fbec11f5f2b872d3.jar" />
+    </item>
+
+</items>
